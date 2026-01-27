@@ -5,10 +5,10 @@ This project focuses on analyzing retail sales transaction data to evaluate over
  **Tools:** Power BI | Excel | DAX | Power Query | Data Modeling  
  **Domain:** Retail | Sales | Business Analytics
  
- ![PowerBI](https://img.shields.io/badge/Power%20BI-Analytics-yellowgreen?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Data%20Prep-success?style=for-the-badge&logo=microsoft-excel)
-![Domain](https://img.shields.io/badge/Domain-Retail%20Sales-blueviolet?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-Measures-orange?style=for-the-badge)
+ ![Power BI](https://img.shields.io/badge/Power%20BI-1F1F1F?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0B5A2A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-2D2A6E?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
  ## 🔄 Project Overview:
