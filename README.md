@@ -18,15 +18,15 @@ Using Excel and Power BI, the data was cleaned, transformed, modeled, and visual
 
 
 # # 🎯 Project Objectives:
-#  Analyze Sales Performance:
+# # Analyze Sales Performance:
 Study overall sales performance using Gross Sales, Discount Amount, and Net Sales to understand revenue trends.
-# Evaluate Product & Category Performance:
+# # Evaluate Product & Category Performance:
 Analyze sales contribution across product categories and identify top-performing products.
-# Understand Regional Sales Behavior:
+# # Understand Regional Sales Behavior:
 Evaluate country-wise sales and order distribution to identify high-performing markets.
-# Sales Channel Comparison:
+# # Sales Channel Comparison:
 Compare Online Vs In-store sales to understand customer preference and channel contribution.
-#  Discount Impact Analysis:
+# # Discount Impact Analysis:
 Analyze how discounts affect net sales and profitability across categories.
 
 
