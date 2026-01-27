@@ -103,7 +103,7 @@ Data Cleaning (Power Query)
 •	Discount Amount by Category (Bar Chart)
 
           ![Dashboard Preview] Retail-Performance-Analysis-and-Sales-Insights-2025/Dashboard.png
-
+---
 # 📈 Performance Insights:
 
 🟢 Online sales contributed slightly more than in-store sales
