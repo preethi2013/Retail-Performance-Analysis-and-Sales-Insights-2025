@@ -81,12 +81,12 @@ Data Cleaning (Power Query)
 
 # 📊 Dashboard Highlights:
 
-•	Sales Performance: Gross Sales Vs Net Sales
-•	Category Analysis: Sales by product category
-•	Regional Analysis: Country-wise sales & orders
-•	Channel Comparison: Online vs In-store contribution
-•	Product Analysis: Top products by order volume
-•	Trend Analysis: Net sales over time
+- Sales Performance: Gross Sales Vs Net Sales
+-	Category Analysis: Sales by product category
+- Regional Analysis: Country-wise sales & orders
+-	Channel Comparison: Online vs In-store contribution
+-	Product Analysis: Top products by order volume
+-	Trend Analysis: Net sales over time
 
 # 📊 Power BI Charts Used
 •	Total Net Sales (KPI Card)
