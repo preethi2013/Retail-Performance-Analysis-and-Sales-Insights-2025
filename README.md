@@ -102,7 +102,7 @@ Data Cleaning (Power Query)
 •	Country vs Sales Channel (Matrix)
 •	Discount Amount by Category (Bar Chart)
 
-          ![Dashboard Preview] Dashboard.png
+          ![Dashboard Preview] Retail-Performance-Analysis-and-Sales-Insights-2025/Dashboard.png
 
 # 📈 Performance Insights:
 
