@@ -71,12 +71,12 @@ Data Cleaning (Power Query)
 ## 📉 Analysis & Visualizations:
 
 ## 🔢 Developed interactive Power BI dashboards using:
-•	KPI Cards
-•	Column Charts
-•	Line Charts
-•	Donut Charts
-•	Map Visuals
-•	Tables & Matrix
+-	KPI Cards
+-	Column Charts
+-	Line Charts
+-	Donut Charts
+-	Map Visuals
+-	Tables & Matrix
 
 
 # 📊 Dashboard Highlights:
@@ -89,21 +89,22 @@ Data Cleaning (Power Query)
 -	Trend Analysis: Net sales over time
 
 # 📊 Power BI Charts Used
-•	Total Net Sales (KPI Card)
-•	Total Gross Sales (KPI Card)
-•	Total Orders (KPI Card
-•	Average Discount (KPI Card)
-•	Sales by Category (Column Chart)
-•	Total Sales by Country (Bar Chart)
-•	Monthly Sales Trend (Line Chart)
-•	Sales by Sales Channel (Donut Chart)
-•	Total Orders by Country (Map Visual)
-•	Total Orders by Description (Bar/Funnel Chart)
-•	Country vs Sales Channel (Matrix)
-•	Discount Amount by Category (Bar Chart)
+-	Total Net Sales (KPI Card)
+-	Total Gross Sales (KPI Card)
+-	Total Orders (KPI Card
+-	Average Discount (KPI Card)
+-	Sales by Category (Column Chart)
+-	Total Sales by Country (Bar Chart)
+-	Monthly Sales Trend (Line Chart)
+-	Sales by Sales Channel (Donut Chart)
+-	Total Orders by Country (Map Visual)
+-	Total Orders by Description (Bar/Funnel Chart)
+-	Country vs Sales Channel (Matrix)
+-	Discount Amount by Category (Bar Chart)
 
-          ![Dashboard Preview] Retail-Performance-Analysis-and-Sales-Insights-2025/Dashboard.png
+          ![Dashboard Preview](Retail-Performance-Analysis-and-Sales-Insights-2025/Dashboard.png)
 ---
+
 # 📈 Performance Insights:
 
 🟢 Online sales contributed slightly more than in-store sales
