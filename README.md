@@ -102,7 +102,7 @@ Data Cleaning (Power Query)
 -	Country vs Sales Channel (Matrix)
 -	Discount Amount by Category (Bar Chart)
 
-          ![Dashboard Preview]![Dashboard Image](images/dashboard.png)
+          ![Dashboard Preview]![Dashboard Image](dashboard.png/2a6ab0852feab3ffb70998c9e3ba5ae01c814c58)
 ---
 
 # 📈 Performance Insights:
