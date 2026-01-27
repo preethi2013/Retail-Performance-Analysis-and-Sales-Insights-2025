@@ -44,7 +44,7 @@ Evaluate the impact of discounts on net sales
 Identify which sales channel contributes more revenue
 Analyze order volume by product and region
 
-## Data Preprocessing Steps:
+##🔄 Data Preprocessing Steps:
 Data Collection
 Retail transaction data imported from Excel
 Data Cleaning (Excel)
@@ -53,7 +53,7 @@ Handled missing values
 Standardized date and currency formats
 Verified discount values
 Data Transformation
-## Created calculated columns:
+## 🔄 Created calculated columns:
 •	Gross Sales
 •	Discount Amount
 •	Net Sales
@@ -62,14 +62,14 @@ Data Cleaning (Power Query)
 •	Renamed columns
 •	Removed unnecessary fields
 •	Standardized category names
-## Data Modeling
+## 🔄 Data Modeling
 •	Single fact table model
 •	Optimized for Power BI performance
 
 
 ## 📉 Analysis & Visualizations:
 
-## Developed interactive Power BI dashboards using:
+## 🔢 Developed interactive Power BI dashboards using:
 •	KPI Cards
 •	Column Charts
 •	Line Charts
@@ -78,7 +78,7 @@ Data Cleaning (Power Query)
 •	Tables & Matrix
 
 
-# Dashboard Highlights:
+# 📊 Dashboard Highlights:
 
 •	Sales Performance: Gross Sales Vs Net Sales
 •	Category Analysis: Sales by product category
@@ -124,7 +124,7 @@ The dashboard supports data-driven decision-making for retail sales optimization
 ## Preethi P ##
 # Data Analyst 
 
-🌐 GitHub: ()
+🌐 GitHub: (https://github.com/preethi2013/Retail-Performance-Analysis-and-Sales-Insights-2025)
 
 
 ## 📚 Tags
