@@ -33,9 +33,9 @@ Analyze how discounts affect net sales and profitability across categories.
 
 ## 📂 Data Sources:
 
-# Source: Retail Transaction Dataset (Excel)
-# Time Period: January  2026
-# Domain: Retail & E-commerce
+Source: Retail Transaction Dataset (Excel)
+Time Period: January  2026
+Domain: Retail & E-commerce
 
 ## ❓ Problem Statement:
 Identify top-selling products and categories
@@ -45,7 +45,7 @@ Evaluate the impact of discounts on net sales
 Identify which sales channel contributes more revenue
 Analyze order volume by product and region
 
-##🔄 Data Preprocessing Steps:
+## 🔄 Data Preprocessing Steps:
 Data Collection
 Retail transaction data imported from Excel
 Data Cleaning (Excel)
@@ -123,8 +123,8 @@ The dashboard supports data-driven decision-making for retail sales optimization
 
 👩💻 Author
 
-## Preethi P ##
-# Data Analyst 
+## Preethi P 
+## Data Analyst 
 
 🌐 GitHub: (https://github.com/preethi2013/Retail-Performance-Analysis-and-Sales-Insights-2025)
 
