@@ -115,7 +115,7 @@ Data Cleaning (Power Query)
 
 
 
-## Conclusion:
+## 🧠 Conclusion:
 
 This Retail Performance Analysis project demonstrates an end-to-end Excel to Power BI workflow.
 By transforming raw transaction data into an interactive dashboard, the project provides clear insights into sales trends, customer behavior, discount impact, and business performance.
