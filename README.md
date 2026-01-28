@@ -33,9 +33,9 @@ Analyze how discounts affect net sales and profitability across categories.
 
 ## 📂 Data Sources:
 
-Source: Retail Transaction Dataset (Excel)
-Time Period: January  2026
-Domain: Retail & E-commerce
+-Source: Retail Transaction Dataset (Excel)
+-Time Period: January  2026
+-Domain: Retail & E-commerce
 
 ## ❓ Problem Statement:
 Identify top-selling products and categories
@@ -79,7 +79,7 @@ Data Cleaning (Power Query)
 -	Tables & Matrix
 
 
-# 📊 Dashboard Highlights:
+## 📊 Dashboard Highlights:
 
 - Sales Performance: Gross Sales Vs Net Sales
 -	Category Analysis: Sales by product category
@@ -88,7 +88,7 @@ Data Cleaning (Power Query)
 -	Product Analysis: Top products by order volume
 -	Trend Analysis: Net sales over time
 
-# 📊 Power BI Charts Used
+## 📊 Power BI Charts Used
 -	Total Net Sales (KPI Card)
 -	Total Gross Sales (KPI Card)
 -	Total Orders (KPI Card
@@ -104,7 +104,7 @@ Data Cleaning (Power Query)
 
          
 
-# 📈 Performance Insights:
+## 📈 Performance Insights:
 
 🟢 Online sales contributed slightly more than in-store sales
 🌍 United Kingdom, France, and United States generated high revenue
@@ -115,7 +115,7 @@ Data Cleaning (Power Query)
 
 
 
-# Conclusion:
+## Conclusion:
 
 This Retail Performance Analysis project demonstrates an end-to-end Excel to Power BI workflow.
 By transforming raw transaction data into an interactive dashboard, the project provides clear insights into sales trends, customer behavior, discount impact, and business performance.
