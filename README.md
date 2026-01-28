@@ -33,9 +33,9 @@ Analyze how discounts affect net sales and profitability across categories.
 
 ## 📂 Data Sources:
 
--Source: Retail Transaction Dataset (Excel)
--Time Period: January  2026
--Domain: Retail & E-commerce
+## Source: Retail Transaction Dataset (Excel)
+## Time Period: January  2026
+## Domain: Retail & E-commerce
 
 ## ❓ Problem Statement:
 Identify top-selling products and categories
